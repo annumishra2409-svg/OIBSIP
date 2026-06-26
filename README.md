@@ -1,6 +1,8 @@
 🚀Oasis Infobyte Web Development Internship
+
 Overview:
 This repository contains three web development tasks completed as part of the Oasis Infobyte Internship. These projects were developed to improve my front-end web development skills using HTML, CSS, and JavaScript.
+
 Tasks
 🔗Task 1 – Landing Page
 A responsive and visually appealing landing page created using HTML and CSS. The project focuses on page layout, navigation, and responsive design.
